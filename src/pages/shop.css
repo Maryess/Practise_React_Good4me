@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+
+}
+
+:root{
+    --container-width:1920px;
+    --container-padding:0 120px;
+}
+.shop{
+    font-family: 'Jost', sans-serif;
+    min-width:1920px;
+}
+.container_shop{
+    
+}
+.products_list{
+    display:flex;
+
+}
+.products_list img{
+    margin:0;
+    padding:0;
+}
+.title{
+    font-size:30px ;
+    text-align:center;
+}
